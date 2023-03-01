@@ -1,0 +1,17 @@
+.environments {
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+.deploy {
+    margin: 10px 5px;
+    padding: 15px 30px;
+    background: purple;
+    color: white;
+    cursor: pointer;
+    border-radius: 30px;
+    border: none;
+}
+.deploy:hover{
+  background: orangered;
+}

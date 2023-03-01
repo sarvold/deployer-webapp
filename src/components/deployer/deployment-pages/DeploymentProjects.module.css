@@ -1,0 +1,17 @@
+.projects {
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+.deploy {
+    background-color: #2185d0;
+    margin: 10px 5px;
+    padding: 15px 30px;
+    color: white;
+    cursor: pointer;
+    border-radius: 30px;
+    border: none;
+}
+.deploy:hover {
+    background-color: #0d75c5;
+}
